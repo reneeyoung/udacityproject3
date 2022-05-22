@@ -4,10 +4,10 @@
 05-22-2022
 
 ### Project Title
-Udacity project 3
+Udacity project 3 version 2
 
 ### Description
-learning git hub
+learning git hub and version control
 
 ### Files used
 bikeshare.py
